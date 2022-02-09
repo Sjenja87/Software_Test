@@ -1,0 +1,10 @@
+C:\Users\Yevhen\Documents\Software-technology\Sem4\SoftwareTest\Calculator.Test.Unit\Software_Test\CalculatorTestSolution\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\Yevhen\Documents\Software-technology\Sem4\SoftwareTest\Calculator.Test.Unit\Software_Test\CalculatorTestSolution\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Yevhen\Documents\Software-technology\Sem4\SoftwareTest\Calculator.Test.Unit\Software_Test\CalculatorTestSolution\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Yevhen\Documents\Software-technology\Sem4\SoftwareTest\Calculator.Test.Unit\Software_Test\CalculatorTestSolution\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\Users\Yevhen\Documents\Software-technology\Sem4\SoftwareTest\Calculator.Test.Unit\Software_Test\CalculatorTestSolution\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yevhen\Documents\Software-technology\Sem4\SoftwareTest\Calculator.Test.Unit\Software_Test\CalculatorTestSolution\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Yevhen\Documents\Software-technology\Sem4\SoftwareTest\Calculator.Test.Unit\Software_Test\CalculatorTestSolution\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\Yevhen\Documents\Software-technology\Sem4\SoftwareTest\Calculator.Test.Unit\Software_Test\CalculatorTestSolution\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Yevhen\Documents\Software-technology\Sem4\SoftwareTest\Calculator.Test.Unit\Software_Test\CalculatorTestSolution\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Yevhen\Documents\Software-technology\Sem4\SoftwareTest\Calculator.Test.Unit\Software_Test\CalculatorTestSolution\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
