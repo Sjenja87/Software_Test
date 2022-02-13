@@ -23,5 +23,20 @@ namespace Calculator
         {
             return Math.Pow(a, b);
         }
+
+        public double Sqrt(double a)
+        {
+            return Math.Sqrt(a);
+        }
+
+        public double Divide(double a, double b)
+        {
+            return a / b;
+        }
+
+        public double Log(double a)
+        {
+            return Math.Log(a);
+        }
     }
 }
